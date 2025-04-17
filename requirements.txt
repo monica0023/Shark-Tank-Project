@@ -1,0 +1,8 @@
+openai-whisper
+librosa
+scikit-learn
+pandas
+matplotlib
+torch
+numpy
+ffmpeg-python
