@@ -1,13 +1,3 @@
 # Shark-Tank-Project
 
-📝 MemoTag – Early Cognitive Risk Detection Report (Speech Analysis)
-
-Completed by:
-
-NAME : MONICA R
-
-CLASS : MDS-B
-
-ROLL NO : 2348437
-
-EMAIL ID : monica.r.041002@gmail.com
+1. Objective To analyze speech patterns from anonymized audio samples and detect signs of potential cognitive impairment using unsupervised machine learning and custom voice features.
